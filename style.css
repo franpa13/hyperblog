@@ -1,6 +1,12 @@
 .class{
     color:red
 }
+.cabezera{
+ background-color:red;
+ text-align : center;
+ padding: 2px;
+ 
+}
 body{
    border :1px solid black;
     margin:2px
